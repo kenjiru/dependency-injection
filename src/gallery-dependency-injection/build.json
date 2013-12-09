@@ -1,0 +1,14 @@
+{
+    "name": "gallery-dependency-injection",
+    "builds": {
+        "gallery-dependency-injection": {
+            "jsfiles": [
+                "js/binding.js",
+                "js/injector.js"
+            ],
+			"config" : {
+                "use" : [ "base" ]
+            }
+        }
+    }
+}

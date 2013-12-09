@@ -1,0 +1,11 @@
+{
+    "name"       : "gallery-dependency-injection",
+    "displayName": "Gallery: gallery-dependency-injection",
+    "description": "*Summary Goes Here*",
+    "author"     : [ "kenjiru" ],
+    "use"        : [ "gallery-dependency-injection" ],
+
+    "tags": [ "gallery" ],
+
+    "examples": []
+}

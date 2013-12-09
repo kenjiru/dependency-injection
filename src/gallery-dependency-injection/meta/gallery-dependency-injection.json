@@ -1,0 +1,7 @@
+{
+    "gallery-dependency-injection": {
+        "requires": [
+            "yui-base"
+        ]
+    }
+}
